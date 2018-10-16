@@ -1,1 +1,2 @@
 This is a test file to verify how to add and upload a file to gitHub 
+updated the file 
